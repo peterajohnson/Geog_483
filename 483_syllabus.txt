@@ -1,1 +1,98 @@
-GEOG 475: The Geoweb and Location-Based Services 			Winter 2013Dr. Peter Johnson (peter.johnson@uwaterloo.ca)	Course meeting time: 1:30-4:30, Mondays, EV3 4412Course Outline: In recent years, a flood of place-based information has been contributed online by individuals. Though many GIS packages have long had mobile components, the widespread availability of GPS-enabled mobile computing devices (cellphones, smartphones, tablets) has led to dramatic changes in the ways that we interact with location information. As adoption of these devices increases, we are approaching an era where potentially every individual, building, and object will be broadcasting its location online. Prerequisites: GEOG 381 or permission of instructorCourse aims and objectives: This course takes a critical approach to understanding the development, implementation, and evaluation of the Geoweb and location-based services (LBS). These technologies are placed within broader societal concerns, including privacy, the nature of digital participation, and digital divides. Students will gain a high-level knowledge of the history, development, and current state of the Geoweb and LBS, from a GIScience perspective. This course is directed at students with some background in GIScience, who have ideally taken an undergraduate course in GIS. Knowledge of a computer programming or web development language (HTML, Javascript) is an asset, but not required.This course will mix lecture-style delivery of content with structured group discussions of academic papers and practical examples. To enhance the learning experience, students will complete four laboratory assignments, each designed to support the development of technical skills. These assignments include: Develop and critique a basic Geoweb siteAdd VGI to OpenStreetMapAccessing and working with volunteered data (web scraping)Extending an existing LBS application using available free softwareStudents will also have the opportunity to explore an in-depth component of the Geoweb or LBS with a group project. Students can choose both technical software development or more theoretical GIScience-related issues (human-computer interaction, for example). This provides an opportunity for students across the technical skill spectrum. AssessmentItem	ValueAssignment #1	15%Assignment #2	15%Assignment #3	15%Assignment #4	15%Group project team assessment	10%Group project writeup and presentation	30%Total	100%Course schedule and outline of lecture topics*Week #	Topic	Readings	Assignment"Week #1January 7th"	L01: Course Outline, Introduction to the Geoweb and LBS	"Haklay, Singleton, Parker (2008)"	Assignment #1: Develop and critique a Geoweb/LBS platform"Week #2January 14th"	L02: Web 2.0, Citizen Sensors and Volunteered Geographic Information	"Goodchild (2007)"	 "Week #3January 21st"	L03: Open Data and Open Base Mapping	Haklay (2010)	"Assignment #1 DueAssignment #2: VGI on OSM.Form project groups""Week #4January 28th"	"L04: ÒBig dataÓ: Accessing and analyzing the flood of informationProject proposal discussion"	"Keller (2012)Big data blog posts"	"Assignment #2 DueAssignment #3: Web Scraping""Week #5February 4th"	L05: Location Based Services: principles and design	Evans-Cowley (2010)	"Week #6February 11th"	L06: Mobile data collection: current methods, techniques, and challenges		"Assignment #3 dueProject Proposal dueAssignment #4: Extending an LBS""Week #7February 18th"	Reading Week		"Week #8February 25th"	"L07: Net localities: how mobile technologies are reshaping societyPrivacy, data ownership, and networked community"	"Turkle (2011)Elwood (2011)"	"Week #9March 4th"	L08: Project and process. Summary, conclusions, future directions		Assignment #4 Due"Week #10March 11th"	Project consultation and work session		"Week #11March 18th"	Project consultation and work session		"Week #12March 25th"	Project consultation and work session		"Week #13April 1st"	Project presentations		Project dueThe instructor reserves the right to alter this scheduleReading listHaklay, M., A. Singleton, et al. (2008). "Web mapping 2.0: the Neogeography of the Geoweb." Geography Compass 2(6): 2011-2039.Goodchild, M. (2007). "Citizens as sensors: the world of volunteered geography." GeoJournal 69(211-221).Haklay, M. (2010). "How good is volunteered geographical information? AÊcomparative study of OpenStreetMap and Ordnance Survey datasets." Environment and Planning B - Planning and Design 37(4): 682-703.Keller, Koonin, and Shipp (2012). Big data and city living - what can it do for us?. Significance 9(4): 4-7. http://goo.gl/aRhKIBig Data blog posts:http://www.informationweek.com/big-data/news/software/information-management/6-lies-about-big-data/240009681?pgno=1http://bigthink.com/think-tank/the-2012-election-a-big-win-for-big-datahttp://blogs.hbr.org/fox/2012/10/why-data-will-never-replace-thinking.htmlhttp://www.nakedcapitalism.com/2012/12/cathy-oneil-why-nate-silver-is-not-just-wrong-but-maliciously-wrong.htmlEvans-Cowley. (2010) Planning in the Real-Time City: The Future of Mobile Technology. Journal of Planning Literature 25 pp. 136Turkle, S. (2011). ÒAlone TogetherÓ. TEDx UIUC Talk Feb 2011 http://www.youtube.com/watch?v=MtLVCpZIiNsElwood and Leszczynski. (2011) Privacy, reconsidered: New representations, data practices, and the geoweb. Geoforum 42(1): 6-15Academic Integrity Policies: In order to maintain a culture of academic integrity, members of the University of Waterloo community are expected to promote honesty, trust, fairness, respect and responsibility. [Check www.uwaterloo.ca/academicintegrity/ for more.]Grievance: A student who believes that a decision affecting some aspect of his/her university life has been unfair or unreasonable may have grounds for initiating a grievance. Read Policy 70, Student Petitions and Grievances, Section 4, www.adm.uwaterloo.ca/infosec/Policies/policy70.htm. When in doubt please be certain to contact the departmentÕs administrative assistant who will provide further assistance. Discipline: A student is expected to know what constitutes academic integrity [check www.uwaterloo.ca/academicintegrity/] to avoid committing an academic offence, and to take responsibility for his/her actions. A student who is unsure whether an action constitutes an offence, or who needs help in learning how to avoid offences (e.g., plagiarism, cheating) or about ÒrulesÓ for group work/collaboration should seek guidance from the course instructor, academic advisor, or the undergraduate Associate Dean. For information on categories of offences and types of penalties, students should refer to Policy 71, Student Discipline, www.adm.uwaterloo.ca/infosec/Policies/policy71.htm. For typical penalties check Guidelines for the Assessment of Penalties, www.adm.uwaterloo.ca/infosec/guidelines/penaltyguidelines.htm. Appeals: A decision made or penalty imposed under Policy 70 (Student Petitions and Grievances) (other than a petition) or Policy 71 (Student Discipline) may be appealed if there is a ground. A student who believes he/she has a ground for an appeal should refer to Policy 72 (Student Appeals) www.adm.uwaterloo.ca/infosec/Policies/policy72.htm. 
+GEOG 475: The Geoweb and Location-Based Services 			Winter 2013
+Dr. Peter Johnson (peter.johnson@uwaterloo.ca)	
+Course meeting time: 1:30-4:30, Mondays, EV3 4412
+
+Course Outline: In recent years, a flood of place-based information has been contributed online by individuals. Though many GIS packages have long had mobile components, the widespread availability of GPS-enabled mobile computing devices (cellphones, smartphones, tablets) has led to dramatic changes in the ways that we interact with location information. As adoption of these devices increases, we are approaching an era where potentially every individual, building, and object will be broadcasting its location online. Prerequisites: GEOG 381 or permission of instructor
+
+Course aims and objectives: This course takes a critical approach to understanding the development, implementation, and evaluation of the Geoweb and location-based services (LBS). These technologies are placed within broader societal concerns, including privacy, the nature of digital participation, and digital divides. Students will gain a high-level knowledge of the history, development, and current state of the Geoweb and LBS, from a GIScience perspective. This course is directed at students with some background in GIScience, who have ideally taken an undergraduate course in GIS. Knowledge of a computer programming or web development language (HTML, Javascript) is an asset, but not required.
+
+This course will mix lecture-style delivery of content with structured group discussions of academic papers and practical examples. To enhance the learning experience, students will complete four laboratory assignments, each designed to support the development of technical skills. These assignments include: 
+
+Develop and critique a basic Geoweb site
+Add VGI to OpenStreetMap
+Accessing and working with volunteered data (web scraping)
+Extending an existing LBS application using available free software
+
+Students will also have the opportunity to explore an in-depth component of the Geoweb or LBS with a group project. Students can choose both technical software development or more theoretical GIScience-related issues (human-computer interaction, for example). This provides an opportunity for students across the technical skill spectrum. 
+
+Assessment
+Item	Value
+Assignment #1	15%
+Assignment #2	15%
+Assignment #3	15%
+Assignment #4	15%
+Group project team assessment	10%
+Group project writeup and presentation	30%
+Total	100%
+
+
+
+Course schedule and outline of lecture topics*
+Week #	Topic	Readings	Assignment
+"Week #1
+January 7th"	L01: Course Outline, Introduction to the Geoweb and LBS	"Haklay, Singleton, Parker (2008)
+"	Assignment #1: Develop and critique a Geoweb/LBS platform
+"Week #2
+January 14th"	L02: Web 2.0, Citizen Sensors and Volunteered Geographic Information	"Goodchild (2007)
+"	 
+"Week #3
+January 21st"	L03: Open Data and Open Base Mapping	Haklay (2010)	"Assignment #1 Due
+Assignment #2: VGI on OSM.
+Form project groups"
+"Week #4
+January 28th"	"L04: ï¿½Big dataï¿½: Accessing and analyzing the flood of information
+Project proposal discussion"	"Keller (2012)
+Big data blog posts"	"Assignment #2 Due
+Assignment #3: Web Scraping"
+"Week #5
+February 4th"	L05: Location Based Services: principles and design	Evans-Cowley (2010)	
+"Week #6
+February 11th"	L06: Mobile data collection: current methods, techniques, and challenges		"Assignment #3 due
+Project Proposal due
+Assignment #4: Extending an LBS"
+"Week #7
+February 18th"	Reading Week		
+"Week #8
+February 25th"	"L07: Net localities: how mobile technologies are reshaping society
+Privacy, data ownership, and networked community"	"
+Turkle (2011)
+Elwood (2011)"	
+"Week #9
+March 4th"	L08: Project and process. Summary, conclusions, future directions		Assignment #4 Due
+"Week #10
+March 11th"	Project consultation and work session		
+"Week #11
+March 18th"	Project consultation and work session		
+"Week #12
+March 25th"	Project consultation and work session		
+"Week #13
+April 1st"	Project presentations		Project due
+The instructor reserves the right to alter this schedule
+
+
+
+
+Reading list
+Haklay, M., A. Singleton, et al. (2008). "Web mapping 2.0: the Neogeography of the Geoweb." Geography Compass 2(6): 2011-2039.
+
+Goodchild, M. (2007). "Citizens as sensors: the world of volunteered geography." GeoJournal 69(211-221).
+
+Haklay, M. (2010). "How good is volunteered geographical information? Aï¿½comparative study of OpenStreetMap and Ordnance Survey datasets." Environment and Planning B - Planning and Design 37(4): 682-703.
+
+Keller, Koonin, and Shipp (2012). Big data and city living - what can it do for us?. Significance 9(4): 4-7. http://goo.gl/aRhKI
+
+Big Data blog posts:
+http://www.informationweek.com/big-data/news/software/information-management/6-lies-about-big-data/240009681?pgno=1
+
+http://bigthink.com/think-tank/the-2012-election-a-big-win-for-big-data
+
+http://blogs.hbr.org/fox/2012/10/why-data-will-never-replace-thinking.html
+
+http://www.nakedcapitalism.com/2012/12/cathy-oneil-why-nate-silver-is-not-just-wrong-but-maliciously-wrong.html
+
+Evans-Cowley. (2010) Planning in the Real-Time City: The Future of Mobile Technology. Journal of Planning Literature 25 pp. 136
+
+Turkle, S. (2011). ï¿½Alone Togetherï¿½. TEDx UIUC Talk Feb 2011 http://www.youtube.com/watch?v=MtLVCpZIiNs
+
+Elwood and Leszczynski. (2011) Privacy, reconsidered: New representations, data practices, and the geoweb. Geoforum 42(1): 6-15
+
